@@ -1,0 +1,13 @@
+[2024-12-21 14:44:10 : INFO] - Cache for URL: http://localhost:10005/ has been purged, triggered by action: save_post 
+[2024-12-21 14:46:44 : INFO] - Cache for URL: http://localhost:10005/ has been purged, triggered by action: save_post 
+[2024-12-21 22:59:18 : INFO] - Cache for URL: http://localhost:10005/form/simple-contact-form/ has been purged, triggered by action: save_post 
+[2024-12-21 23:01:54 : INFO] - Cache for URL: http://localhost:10005/contact/ has been purged, triggered by action: save_post 
+[2024-12-21 23:03:54 : INFO] - Cache for URL: http://localhost:10005/services/ has been purged, triggered by action: save_post 
+[2024-12-22 15:59:29 : INFO] - Full Cache Purge triggered by: WP_Optimize_Minify_Cache_Functions::purge_others 
+[2024-12-22 16:00:13 : INFO] - Pruning the Cache log file 
+[2024-12-22 20:15:06 : INFO] - Full Cache Purge triggered by: WPO_Page_Cache::maybe_update_advanced_cache 
+[2024-12-22 20:15:08 : INFO] - Cache for URL: https://cynical-station.localsite.io/?p=1186 has been purged, triggered by action: save_post 
+[2024-12-22 20:15:08 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Rascunho automático" and URL: https://cynical-station.localsite.io/?p=1186, triggered by action: save_post 
+[2024-12-22 20:15:08 : INFO] - Cache for previous post (with URL: https://cynical-station.localsite.io/post-1/) adjacent to post with id: 1186 has been purged, triggered by action: save_post 
+[2024-12-22 20:15:08 : INFO] - Cache for all archives page associated with post_type: post and Title: "Rascunho automático" have been purged, triggered by action: save_post 
+[2024-12-22 20:30:16 : INFO] - Full Cache Purge triggered by: WPO_Page_Cache::maybe_update_advanced_cache 
